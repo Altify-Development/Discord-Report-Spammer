@@ -2,7 +2,7 @@
 ## Created By: Altify
 <a href="https://github.com/Altify-Developing"><img alt="GitHub Repo Views" src="https://views.whatilearened.today/views/github/Altify-Development/Discord-Report-Spammer.svg"></a>
 
-Use: Python and emulated firefox users and proxies to create Google Mail (@gmail.com) accounts and writes it down the account information to a file
+Use: Python and emulated discord user tokens to create reports on a user
 
 Developer's Request: If you download, clone, or fork this repository or any of its contents, please star the repo, follow me, and please just don't repost it saying you created the tool. Every star matters, a little can go a long way, thanks!
 
